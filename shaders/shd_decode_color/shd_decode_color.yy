@@ -1,0 +1,12 @@
+{
+  "$GMShader":"",
+  "%Name":"shd_decode_color",
+  "name":"shd_decode_color",
+  "parent":{
+    "name":"decode",
+    "path":"folders/Shaders/decode.yy",
+  },
+  "resourceType":"GMShader",
+  "resourceVersion":"2.0",
+  "type":1,
+}

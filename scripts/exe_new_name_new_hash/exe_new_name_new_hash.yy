@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"exe_new_name_new_hash",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"exe_new_name_new_hash",
+  "parent":{
+    "name":"spawning",
+    "path":"folders/Scripts/map3d/specific_objects/spawning.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

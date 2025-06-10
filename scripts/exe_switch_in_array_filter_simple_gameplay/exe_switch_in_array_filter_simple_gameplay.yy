@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"exe_switch_in_array_filter_simple_gameplay",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"exe_switch_in_array_filter_simple_gameplay",
+  "parent":{
+    "name":"functions",
+    "path":"folders/Scripts/menu_templates/simple_gameplay_menu/functions.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

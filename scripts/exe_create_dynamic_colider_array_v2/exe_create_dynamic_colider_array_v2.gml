@@ -1,0 +1,40 @@
+function exe_create_dynamic_colider_array_v2()
+{
+	var _chunksize = map3d.world_settings.chunksize;
+	var _chunk_num = ceil(map3d.world_settings.world_sqr_size / _chunksize);
+	map3d.world_settings.chunknumber = _chunk_num;
+	
+	var _chunks_arr = exe_create_empty_3d_arr(_chunk_num);
+	
+	for(var _ii = 0; _ii < array_length(map3d.controlable_objects); _ii++)
+		{
+			var _obj3d = map3d.controlable_objects[_ii];
+			
+			var _continue = 1;
+			if struct_get(_obj3d.character_sheet, "colider_impostor") != undefined
+				{
+					if _obj3d.character_sheet.colider_impostor == "ignore_me"	{_continue = 0;};
+				}
+			/*
+			if _continue > 0
+				{
+					var _is_in_bigchunk = exe_check_if_in_current_bigchunk(_obj3d);
+					if _is_in_bigchunk < 1	{_continue = 0;};
+				}
+			*/	
+			if _continue > 0
+				{
+					for(var _inbuff = 0; _inbuff < array_length(_obj3d.part_naming);_inbuff++)
+						{
+							var _colision_buff_here =			_obj3d.part_colisions_curent[_inbuff];
+							var _colision_type =				_obj3d.part_colision_method[_inbuff];
+							var _hash =							_obj3d.character_sheet.hash;
+							var _part =							_obj3d.part_naming[_inbuff];
+							var _translation = [	_obj3d.part_vsubmit[_inbuff][0], _obj3d.part_vsubmit[_inbuff][1], _obj3d.part_vsubmit[_inbuff][2]	];
+							_chunks_arr = exe_grab_colision_triangles_from_vbuff(_chunks_arr,_chunk_num,_chunksize,_colision_buff_here,_hash,_translation,_colision_type,_part);
+						}
+				}
+				
+		}
+	return(_chunks_arr);
+}

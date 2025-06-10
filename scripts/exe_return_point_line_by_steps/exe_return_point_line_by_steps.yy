@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"exe_return_point_line_by_steps",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"exe_return_point_line_by_steps",
+  "parent":{
+    "name":"functions",
+    "path":"folders/Scripts/vbuffs/functions.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

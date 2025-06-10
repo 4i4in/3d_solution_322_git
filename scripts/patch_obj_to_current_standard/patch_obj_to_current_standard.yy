@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"patch_obj_to_current_standard",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"patch_obj_to_current_standard",
+  "parent":{
+    "name":"add_object",
+    "path":"folders/Scripts/map3d/add_object.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

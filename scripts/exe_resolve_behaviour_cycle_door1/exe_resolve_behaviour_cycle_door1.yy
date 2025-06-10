@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"exe_resolve_behaviour_cycle_door1",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"exe_resolve_behaviour_cycle_door1",
+  "parent":{
+    "name":"door1_move",
+    "path":"folders/Scripts/moves_on_3d_map/door1_move.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

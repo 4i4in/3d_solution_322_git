@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"try_catch_load_vbuff",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"try_catch_load_vbuff",
+  "parent":{
+    "name":"vbuffs",
+    "path":"folders/Scripts/vbuffs.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

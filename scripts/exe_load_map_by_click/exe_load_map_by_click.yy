@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"exe_load_map_by_click",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"exe_load_map_by_click",
+  "parent":{
+    "name":"map3d",
+    "path":"folders/Scripts/map3d.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

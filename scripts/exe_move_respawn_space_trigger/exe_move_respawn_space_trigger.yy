@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"exe_move_respawn_space_trigger",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"exe_move_respawn_space_trigger",
+  "parent":{
+    "name":"animations",
+    "path":"folders/Scripts/moves_on_3d_map/animations.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

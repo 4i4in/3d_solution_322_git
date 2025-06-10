@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"exe_patch_map3d_to_current_standards",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"exe_patch_map3d_to_current_standards",
+  "parent":{
+    "name":"map3d",
+    "path":"folders/Scripts/map3d.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

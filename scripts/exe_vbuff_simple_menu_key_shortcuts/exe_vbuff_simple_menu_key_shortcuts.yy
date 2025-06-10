@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"exe_vbuff_simple_menu_key_shortcuts",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"exe_vbuff_simple_menu_key_shortcuts",
+  "parent":{
+    "name":"keyboard_typing",
+    "path":"folders/Scripts/keyboard_typing.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

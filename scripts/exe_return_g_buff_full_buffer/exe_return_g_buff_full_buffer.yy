@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"exe_return_g_buff_full_buffer",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"exe_return_g_buff_full_buffer",
+  "parent":{
+    "name":"postprocess",
+    "path":"folders/Scripts/3d_drawing/postprocess.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

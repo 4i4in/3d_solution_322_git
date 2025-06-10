@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"exe_cleanse_all_static_objects",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"exe_cleanse_all_static_objects",
+  "parent":{
+    "name":"map3d",
+    "path":"folders/Scripts/map3d.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

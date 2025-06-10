@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"exe_kill_all_refsign500",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"exe_kill_all_refsign500",
+  "parent":{
+    "name":"spawning",
+    "path":"folders/Scripts/map3d/specific_objects/spawning.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"exe_reload_all_coliders_for_given_bigchunk",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"exe_reload_all_coliders_for_given_bigchunk",
+  "parent":{
+    "name":"colision_arrays_creation",
+    "path":"folders/Scripts/map3d/colision_arrays_creation.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

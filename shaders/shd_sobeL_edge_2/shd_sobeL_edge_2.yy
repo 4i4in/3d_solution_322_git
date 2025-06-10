@@ -1,0 +1,12 @@
+{
+  "$GMShader":"",
+  "%Name":"shd_sobeL_edge_2",
+  "name":"shd_sobeL_edge_2",
+  "parent":{
+    "name":"Shaders",
+    "path":"folders/Shaders.yy",
+  },
+  "resourceType":"GMShader",
+  "resourceVersion":"2.0",
+  "type":1,
+}

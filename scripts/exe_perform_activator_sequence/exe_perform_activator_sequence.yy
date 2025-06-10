@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"exe_perform_activator_sequence",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"exe_perform_activator_sequence",
+  "parent":{
+    "name":"activators",
+    "path":"folders/Scripts/moves_on_3d_map/activators.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

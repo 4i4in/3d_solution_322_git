@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"exe_update_bigchunk_xyz_start",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"exe_update_bigchunk_xyz_start",
+  "parent":{
+    "name":"map3d",
+    "path":"folders/Scripts/map3d.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

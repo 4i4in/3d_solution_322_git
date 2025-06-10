@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"delete_vbuff_by_click",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"delete_vbuff_by_click",
+  "parent":{
+    "name":"spawning",
+    "path":"folders/Scripts/map3d/specific_objects/spawning.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"exe_wall_w4h3_items_swaps_01",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"exe_wall_w4h3_items_swaps_01",
+  "parent":{
+    "name":"statics_terrain",
+    "path":"folders/Scripts/reference_struct/statics_terrain.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

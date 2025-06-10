@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"exe_delete_object_by_hash",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"exe_delete_object_by_hash",
+  "parent":{
+    "name":"spawning",
+    "path":"folders/Scripts/map3d/specific_objects/spawning.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

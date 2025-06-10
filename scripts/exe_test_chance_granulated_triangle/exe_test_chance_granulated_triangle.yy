@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"exe_test_chance_granulated_triangle",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"exe_test_chance_granulated_triangle",
+  "parent":{
+    "name":"functions",
+    "path":"folders/Scripts/vbuffs/functions.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

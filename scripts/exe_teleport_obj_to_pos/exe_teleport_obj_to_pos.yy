@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"exe_teleport_obj_to_pos",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"exe_teleport_obj_to_pos",
+  "parent":{
+    "name":"mouse_functions",
+    "path":"folders/Scripts/mouse_functions.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

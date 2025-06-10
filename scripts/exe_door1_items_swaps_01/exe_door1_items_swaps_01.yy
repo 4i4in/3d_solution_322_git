@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"exe_door1_items_swaps_01",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"exe_door1_items_swaps_01",
+  "parent":{
+    "name":"controlable_terrain",
+    "path":"folders/Scripts/reference_struct/controlable_terrain.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

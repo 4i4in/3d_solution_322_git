@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"exe_biome_array_combine_vbuff",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"exe_biome_array_combine_vbuff",
+  "parent":{
+    "name":"functions",
+    "path":"folders/Scripts/menu_templates/world_control_menu/functions.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

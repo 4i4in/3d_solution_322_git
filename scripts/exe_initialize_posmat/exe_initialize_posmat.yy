@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"exe_initialize_posmat",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"exe_initialize_posmat",
+  "parent":{
+    "name":"static",
+    "path":"folders/Scripts/map3d/specific_objects/static.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

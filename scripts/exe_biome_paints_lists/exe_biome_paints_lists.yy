@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"exe_biome_paints_lists",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"exe_biome_paints_lists",
+  "parent":{
+    "name":"statics_terrain",
+    "path":"folders/Scripts/reference_struct/statics_terrain.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

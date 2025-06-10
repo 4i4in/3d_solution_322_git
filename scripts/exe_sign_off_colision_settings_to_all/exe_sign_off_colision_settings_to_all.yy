@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"exe_sign_off_colision_settings_to_all",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"exe_sign_off_colision_settings_to_all",
+  "parent":{
+    "name":"colisions",
+    "path":"folders/Scripts/colisions.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

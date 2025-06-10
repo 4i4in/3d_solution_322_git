@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"exe_change_spawn_bchunk",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"exe_change_spawn_bchunk",
+  "parent":{
+    "name":"functions",
+    "path":"folders/Scripts/menu_templates/world_control_menu/functions.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

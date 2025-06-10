@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"exe_add_single_corridor_L3_flat",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"exe_add_single_corridor_L3_flat",
+  "parent":{
+    "name":"static",
+    "path":"folders/Scripts/map3d/specific_objects/static.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

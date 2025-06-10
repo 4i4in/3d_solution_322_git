@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"exe_recover_original_worlds_setting",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"exe_recover_original_worlds_setting",
+  "parent":{
+    "name":"colisions",
+    "path":"folders/Scripts/colisions.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

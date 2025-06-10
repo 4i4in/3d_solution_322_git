@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"exe_return_mapeditor_control_menu_struct",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"exe_return_mapeditor_control_menu_struct",
+  "parent":{
+    "name":"mapeditor_control_menu",
+    "path":"folders/Scripts/menu_templates/mapeditor_control_menu.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

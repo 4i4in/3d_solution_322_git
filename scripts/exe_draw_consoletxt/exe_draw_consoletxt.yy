@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"exe_draw_consoletxt",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"exe_draw_consoletxt",
+  "parent":{
+    "name":"mouse_functions",
+    "path":"folders/Scripts/mouse_functions.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

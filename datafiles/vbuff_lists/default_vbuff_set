@@ -1,0 +1,3152 @@
+[
+  [
+    "vb_combined_terrain",
+    -1.0,
+    "generated",
+    "number",
+    "empty",
+    1.0,
+    -1.0
+  ],
+  [
+    "vb_combined_biome",
+    -1.0,
+    "generated",
+    "number",
+    "empty",
+    1.0,
+    -1.0
+  ],
+  [
+    "vbuff_empty",
+    "@ref vertex_buffer(0)",
+    "generated",
+    "ref",
+    32768.0,
+    1.0,
+    1.0
+  ],
+  [
+    "vbuff_dgw_dgh",
+    "@ref vertex_buffer(1)",
+    "generated",
+    "ref",
+    32768.0,
+    1.0,
+    1.0
+  ],
+  [
+    "vbuff_camera_01",
+    "@ref vertex_buffer(2)",
+    "utylity_vbuff\/camera.vbuff",
+    "ref",
+    11904.0,
+    1.0,
+    1.0
+  ],
+  [
+    "vbuff_pntrdir_01",
+    "@ref vertex_buffer(3)",
+    "utylity_vbuff\/pntrdir.vbuff",
+    "ref",
+    2880.0,
+    1.0,
+    1.0
+  ],
+  [
+    "vbuff_big_pointer",
+    "@ref vertex_buffer(4)",
+    "utylity_vbuff\/big_pointer.vbuff",
+    "ref",
+    1728.0,
+    1.0,
+    1.0
+  ],
+  [
+    "vbuff_pointer_orange",
+    "@ref vertex_buffer(5)",
+    "utylity_vbuff\/pointer_orange.vbuff",
+    "ref",
+    384.0,
+    1.0,
+    1.0
+  ],
+  [
+    "vbuff_pointer_green",
+    "@ref vertex_buffer(6)",
+    "utylity_vbuff\/pointer_green.vbuff",
+    "ref",
+    384.0,
+    1.0,
+    1.0
+  ],
+  [
+    "main_part_01",
+    "@ref vertex_buffer(7)",
+    "utylity_vbuff\/main_part_01.vbuff",
+    "ref",
+    6912.0,
+    1.0,
+    1.0
+  ],
+  [
+    "main_part_low",
+    "@ref vertex_buffer(8)",
+    "utylity_vbuff\/main_part_low.vbuff",
+    "ref",
+    13824.0,
+    1.0,
+    1.0
+  ],
+  [
+    "main_part_total",
+    "@ref vertex_buffer(9)",
+    "utylity_vbuff\/main_part_total.vbuff",
+    "ref",
+    31488.0,
+    1.0,
+    1.0
+  ],
+  [
+    "vbuff_direction_sign_01",
+    "@ref vertex_buffer(10)",
+    "utylity_vbuff\/direction_sign.vbuff",
+    "ref",
+    13824.0,
+    1.0,
+    1.0
+  ],
+  [
+    "vbuff_dir_arrow2",
+    "@ref vertex_buffer(11)",
+    "generated",
+    "ref",
+    77184.0,
+    1.0,
+    1.0
+  ],
+  [
+    "vbuff_dir_arrow2_x01",
+    "@ref vertex_buffer(12)",
+    "generated",
+    "ref",
+    77184.0,
+    1.0,
+    1.0
+  ],
+  [
+    "vbuff_dir_arrow2_x05",
+    "@ref vertex_buffer(13)",
+    "generated",
+    "ref",
+    77184.0,
+    1.0,
+    1.0
+  ],
+  [
+    "vbuff_dir_arrow2_x20",
+    "@ref vertex_buffer(14)",
+    "generated",
+    "ref",
+    77184.0,
+    1.0,
+    1.0
+  ],
+  [
+    "vbuff_refsigns500",
+    "@ref vertex_buffer(15)",
+    "utylity_vbuff\/refsigns500.vbuff",
+    "ref",
+    61824.0,
+    1.0,
+    1.0
+  ],
+  [
+    "vbuff_refsigns500_xyz",
+    "@ref vertex_buffer(16)",
+    "utylity_vbuff\/refsigns500_xyz.vbuff",
+    "ref",
+    72576.0,
+    1.0,
+    1.0
+  ],
+  [
+    "vbuff_conector_1",
+    "@ref vertex_buffer(17)",
+    "utylity_vbuff\/conector_1.vbuff",
+    "ref",
+    8448.0,
+    1.0,
+    1.0
+  ],
+  [
+    "vbuff_conector_2",
+    "@ref vertex_buffer(18)",
+    "utylity_vbuff\/conector_2.vbuff",
+    "ref",
+    8448.0,
+    1.0,
+    1.0
+  ],
+  [
+    "vbuff_conector_3",
+    "@ref vertex_buffer(19)",
+    "utylity_vbuff\/conector_3.vbuff",
+    "ref",
+    8448.0,
+    1.0,
+    1.0
+  ],
+  [
+    "vbuff_conector_4",
+    "@ref vertex_buffer(20)",
+    "utylity_vbuff\/conector_4.vbuff",
+    "ref",
+    8448.0,
+    1.0,
+    1.0
+  ],
+  [
+    "vbuff_conector_5",
+    "@ref vertex_buffer(21)",
+    "utylity_vbuff\/conector_5.vbuff",
+    "ref",
+    8448.0,
+    1.0,
+    1.0
+  ],
+  [
+    "vbuff_conector_6",
+    "@ref vertex_buffer(22)",
+    "utylity_vbuff\/conector_6.vbuff",
+    "ref",
+    8448.0,
+    1.0,
+    1.0
+  ],
+  [
+    "vbuff_conector_7",
+    "@ref vertex_buffer(23)",
+    "utylity_vbuff\/conector_7.vbuff",
+    "ref",
+    8448.0,
+    1.0,
+    1.0
+  ],
+  [
+    "vbuff_conector_8",
+    "@ref vertex_buffer(24)",
+    "utylity_vbuff\/conector_8.vbuff",
+    "ref",
+    8448.0,
+    1.0,
+    1.0
+  ],
+  [
+    "vbuff_helper_gras_01_d100",
+    "@ref vertex_buffer(25)",
+    "helpers_paint\/helper_gras_01_d100.vbuff",
+    "ref",
+    23808.0,
+    1.0,
+    1.0
+  ],
+  [
+    "vbuff_helper_gras_01_d250",
+    "@ref vertex_buffer(26)",
+    "helpers_paint\/helper_gras_01_d250.vbuff",
+    "ref",
+    69888.0,
+    1.0,
+    1.0
+  ],
+  [
+    "vbuff_helper_gras_01_d500",
+    "@ref vertex_buffer(27)",
+    "helpers_paint\/helper_gras_01_d500.vbuff",
+    "ref",
+    149760.0,
+    1.0,
+    1.0
+  ],
+  [
+    "vbuff_doors_1",
+    "@ref vertex_buffer(28)",
+    "terrain\/doors\/doors_1.vbuff",
+    "ref",
+    1152.0,
+    1.0,
+    1.0
+  ],
+  [
+    "vbuff_doors_1a",
+    "@ref vertex_buffer(29)",
+    "terrain\/doors\/doors_1a.vbuff",
+    "ref",
+    18432.0,
+    1.0,
+    1.0
+  ],
+  [
+    "vbuff_doors_1b",
+    "@ref vertex_buffer(30)",
+    "terrain\/doors\/doors_1b.vbuff",
+    "ref",
+    20736.0,
+    1.0,
+    1.0
+  ],
+  [
+    "vbuff_doors_1c",
+    "@ref vertex_buffer(31)",
+    "terrain\/doors\/doors_1c.vbuff",
+    "ref",
+    153984.0,
+    1.0,
+    1.0
+  ],
+  [
+    "vbuff_doors_1c_colider",
+    "@ref vertex_buffer(32)",
+    "terrain\/doors\/doors_1c_colider.vbuff",
+    "ref",
+    1152.0,
+    1.0,
+    1.0
+  ],
+  [
+    "vbuff_doors_1d",
+    "@ref vertex_buffer(33)",
+    "terrain\/doors\/doors_1d.vbuff",
+    "ref",
+    21504.0,
+    1.0,
+    1.0
+  ],
+  [
+    "vbuff_doors_1b_colider_around",
+    "@ref vertex_buffer(34)",
+    "terrain\/doors\/doors_1b_colider_around.vbuff",
+    "ref",
+    3072.0,
+    1.0,
+    1.0
+  ],
+  [
+    "vbuff_doors_1b_show_around",
+    "@ref vertex_buffer(35)",
+    "terrain\/doors\/doors_1b_show_around.vbuff",
+    "ref",
+    34176.0,
+    1.0,
+    1.0
+  ],
+  [
+    "vbuff_doors_1d_show_around",
+    "@ref vertex_buffer(36)",
+    "terrain\/doors\/doors_1d_show_around.vbuff",
+    "ref",
+    69888.0,
+    1.0,
+    1.0
+  ],
+  [
+    "vbuff_doors_1b_colider_around_small",
+    "@ref vertex_buffer(37)",
+    "terrain\/doors\/doors_1b_colider_around_small.vbuff",
+    "ref",
+    2880.0,
+    1.0,
+    1.0
+  ],
+  [
+    "vbuff_doors_1b_show_around_small",
+    "@ref vertex_buffer(38)",
+    "terrain\/doors\/doors_1b_show_around_small.vbuff",
+    "ref",
+    81216.0,
+    1.0,
+    1.0
+  ],
+  [
+    "vbuff_doors_1d_show_around_small",
+    "@ref vertex_buffer(39)",
+    "terrain\/doors\/doors_1d_show_around_small.vbuff",
+    "ref",
+    110592.0,
+    1.0,
+    1.0
+  ],
+  [
+    "vbuff_doors1_activator2_small",
+    "@ref vertex_buffer(40)",
+    "terrain\/doors\/doors1_activator2_small.vbuff",
+    "ref",
+    1536.0,
+    1.0,
+    1.0
+  ],
+  [
+    "vbuff_gfield_1x1x1_colider",
+    "@ref vertex_buffer(41)",
+    "terrain\/phy_fields\/gfield_1x1x1_colider.vbuff",
+    "ref",
+    1728.0,
+    1.0,
+    1.0
+  ],
+  [
+    "vbuff_gfield_1x1x1_show",
+    "@ref vertex_buffer(42)",
+    "terrain\/phy_fields\/gfield_1x1x1_show.vbuff",
+    "ref",
+    8448.0,
+    1.0,
+    1.0
+  ],
+  [
+    "vbuff_gfield_2x2x1_colider",
+    "@ref vertex_buffer(43)",
+    "terrain\/phy_fields\/gfield_2x2x1_colider.vbuff",
+    "ref",
+    6912.0,
+    1.0,
+    1.0
+  ],
+  [
+    "vbuff_gfield_2x2x1_show",
+    "@ref vertex_buffer(44)",
+    "terrain\/phy_fields\/gfield_2x2x1_show.vbuff",
+    "ref",
+    19008.0,
+    1.0,
+    1.0
+  ],
+  [
+    "vbuff_gfield_2x2x2_colider",
+    "@ref vertex_buffer(45)",
+    "terrain\/phy_fields\/gfield_2x2x2_colider.vbuff",
+    "ref",
+    13824.0,
+    1.0,
+    1.0
+  ],
+  [
+    "vbuff_gfield_2x2x2_show",
+    "@ref vertex_buffer(46)",
+    "terrain\/phy_fields\/gfield_2x2x2_show.vbuff",
+    "ref",
+    38016.0,
+    1.0,
+    1.0
+  ],
+  [
+    "vbuff_gfield_3x3x1_colider",
+    "@ref vertex_buffer(47)",
+    "terrain\/phy_fields\/gfield_3x3x1_colider.vbuff",
+    "ref",
+    15552.0,
+    1.0,
+    1.0
+  ],
+  [
+    "vbuff_gfield_3x3x1_show",
+    "@ref vertex_buffer(48)",
+    "terrain\/phy_fields\/gfield_3x3x1_show.vbuff",
+    "ref",
+    33792.0,
+    1.0,
+    1.0
+  ],
+  [
+    "vbuff_gfield_4x4x1_colider",
+    "@ref vertex_buffer(49)",
+    "terrain\/phy_fields\/gfield_4x4x1_colider.vbuff",
+    "ref",
+    27648.0,
+    1.0,
+    1.0
+  ],
+  [
+    "vbuff_gfield_4x4x1_show",
+    "@ref vertex_buffer(50)",
+    "terrain\/phy_fields\/gfield_4x4x1_show.vbuff",
+    "ref",
+    52800.0,
+    1.0,
+    1.0
+  ],
+  [
+    "vbuff_gfield_5x5x1_colider",
+    "@ref vertex_buffer(51)",
+    "terrain\/phy_fields\/gfield_5x5x1_colider.vbuff",
+    "ref",
+    43200.0,
+    1.0,
+    1.0
+  ],
+  [
+    "vbuff_gfield_5x5x1_show",
+    "@ref vertex_buffer(52)",
+    "terrain\/phy_fields\/gfield_5x5x1_show.vbuff",
+    "ref",
+    76032.0,
+    1.0,
+    1.0
+  ],
+  [
+    "vbuff_bush_01",
+    "@ref vertex_buffer(53)",
+    "terrain\/bushes\/bush_01.vbuff",
+    "ref",
+    13824.0,
+    1.0,
+    1.0
+  ],
+  [
+    "vbuff_bush_02",
+    "@ref vertex_buffer(54)",
+    "terrain\/bushes\/bush_02.vbuff",
+    "ref",
+    21504.0,
+    1.0,
+    1.0
+  ],
+  [
+    "vbuff_bush_03",
+    "@ref vertex_buffer(55)",
+    "terrain\/bushes\/bush_03.vbuff",
+    "ref",
+    19584.0,
+    1.0,
+    1.0
+  ],
+  [
+    "vbuff_bush_04",
+    "@ref vertex_buffer(56)",
+    "terrain\/bushes\/bush_04.vbuff",
+    "ref",
+    17280.0,
+    1.0,
+    1.0
+  ],
+  [
+    "vbuff_bush_05",
+    "@ref vertex_buffer(57)",
+    "terrain\/bushes\/bush_05.vbuff",
+    "ref",
+    7680.0,
+    1.0,
+    1.0
+  ],
+  [
+    "vbuff_grass_01",
+    "@ref vertex_buffer(58)",
+    "terrain\/grass\/grass_01.vbuff",
+    "ref",
+    14592.0,
+    1.0,
+    1.0
+  ],
+  [
+    "vbuff_grass_01a",
+    "@ref vertex_buffer(59)",
+    "terrain\/grass\/grass_01a.vbuff",
+    "ref",
+    39552.0,
+    1.0,
+    1.0
+  ],
+  [
+    "vbuff_grass_02",
+    "@ref vertex_buffer(60)",
+    "terrain\/grass\/grass_02.vbuff",
+    "ref",
+    26208.0,
+    1.0,
+    1.0
+  ],
+  [
+    "vbuff_grass_02a",
+    "@ref vertex_buffer(61)",
+    "terrain\/grass\/grass_02a.vbuff",
+    "ref",
+    125856.0,
+    1.0,
+    1.0
+  ],
+  [
+    "vbuff_grass_03",
+    "@ref vertex_buffer(62)",
+    "terrain\/grass\/grass_03.vbuff",
+    "ref",
+    33696.0,
+    1.0,
+    1.0
+  ],
+  [
+    "vbuff_grass_03a",
+    "@ref vertex_buffer(63)",
+    "terrain\/grass\/grass_03a.vbuff",
+    "ref",
+    148320.0,
+    1.0,
+    1.0
+  ],
+  [
+    "vbuff_grass_04",
+    "@ref vertex_buffer(64)",
+    "terrain\/grass\/grass_04.vbuff",
+    "ref",
+    29568.0,
+    1.0,
+    1.0
+  ],
+  [
+    "vbuff_grass_04a",
+    "@ref vertex_buffer(65)",
+    "terrain\/grass\/grass_04a.vbuff",
+    "ref",
+    135744.0,
+    1.0,
+    1.0
+  ],
+  [
+    "vbuff_grass_05",
+    "@ref vertex_buffer(66)",
+    "terrain\/grass\/grass_05.vbuff",
+    "ref",
+    46752.0,
+    1.0,
+    1.0
+  ],
+  [
+    "vbuff_grass_05a",
+    "@ref vertex_buffer(67)",
+    "terrain\/grass\/grass_05a.vbuff",
+    "ref",
+    187680.0,
+    1.0,
+    1.0
+  ],
+  [
+    "vbuff_grass_06",
+    "@ref vertex_buffer(68)",
+    "terrain\/grass\/grass_06.vbuff",
+    "ref",
+    57216.0,
+    1.0,
+    1.0
+  ],
+  [
+    "vbuff_grass_06a",
+    "@ref vertex_buffer(69)",
+    "terrain\/grass\/grass_06a.vbuff",
+    "ref",
+    219840.0,
+    1.0,
+    1.0
+  ],
+  [
+    "vbuff_grass_07",
+    "@ref vertex_buffer(70)",
+    "terrain\/grass\/grass_07.vbuff",
+    "ref",
+    59328.0,
+    1.0,
+    1.0
+  ],
+  [
+    "vbuff_grass_07a",
+    "@ref vertex_buffer(71)",
+    "terrain\/grass\/grass_07a.vbuff",
+    "ref",
+    224832.0,
+    1.0,
+    1.0
+  ],
+  [
+    "vbuff_grass_08",
+    "@ref vertex_buffer(72)",
+    "terrain\/grass\/grass_08.vbuff",
+    "ref",
+    112224.0,
+    1.0,
+    1.0
+  ],
+  [
+    "vbuff_grass_08a",
+    "@ref vertex_buffer(73)",
+    "terrain\/grass\/grass_08a.vbuff",
+    "ref",
+    383904.0,
+    1.0,
+    1.0
+  ],
+  [
+    "vbuff_grass_09",
+    "@ref vertex_buffer(74)",
+    "terrain\/grass\/grass_09.vbuff",
+    "ref",
+    167904.0,
+    1.0,
+    1.0
+  ],
+  [
+    "vbuff_grass_09a",
+    "@ref vertex_buffer(75)",
+    "terrain\/grass\/grass_09a.vbuff",
+    "ref",
+    623424.0,
+    1.0,
+    1.0
+  ],
+  [
+    "vbuff_grass_10",
+    "@ref vertex_buffer(76)",
+    "terrain\/grass\/grass_10.vbuff",
+    "ref",
+    94080.0,
+    1.0,
+    1.0
+  ],
+  [
+    "vbuff_grass_10a",
+    "@ref vertex_buffer(77)",
+    "terrain\/grass\/grass_10a.vbuff",
+    "ref",
+    724032.0,
+    1.0,
+    1.0
+  ],
+  [
+    "vbuff_grass_11",
+    "@ref vertex_buffer(78)",
+    "terrain\/grass\/grass_11.vbuff",
+    "ref",
+    235008.0,
+    1.0,
+    1.0
+  ],
+  [
+    "vbuff_grass_11a",
+    "@ref vertex_buffer(79)",
+    "terrain\/grass\/grass_11a.vbuff",
+    "ref",
+    942240.0,
+    1.0,
+    1.0
+  ],
+  [
+    "vbuff_grass_12",
+    "@ref vertex_buffer(80)",
+    "terrain\/grass\/grass_12.vbuff",
+    "ref",
+    67296.0,
+    1.0,
+    1.0
+  ],
+  [
+    "vbuff_grass_12a",
+    "@ref vertex_buffer(81)",
+    "terrain\/grass\/grass_12a.vbuff",
+    "ref",
+    236448.0,
+    1.0,
+    1.0
+  ],
+  [
+    "vbuff_grass_13",
+    "@ref vertex_buffer(82)",
+    "terrain\/grass\/grass_13.vbuff",
+    "ref",
+    17472.0,
+    1.0,
+    1.0
+  ],
+  [
+    "vbuff_grass_13a",
+    "@ref vertex_buffer(83)",
+    "terrain\/grass\/grass_13a.vbuff",
+    "ref",
+    302208.0,
+    1.0,
+    1.0
+  ],
+  [
+    "vbuff_grass_14",
+    "@ref vertex_buffer(84)",
+    "terrain\/grass\/grass_14.vbuff",
+    "ref",
+    120096.0,
+    1.0,
+    1.0
+  ],
+  [
+    "vbuff_grass_15",
+    "@ref vertex_buffer(85)",
+    "terrain\/grass\/grass_15.vbuff",
+    "ref",
+    158112.0,
+    1.0,
+    1.0
+  ],
+  [
+    "vbuff_grass_16",
+    "@ref vertex_buffer(86)",
+    "terrain\/grass\/grass_16.vbuff",
+    "ref",
+    33600.0,
+    1.0,
+    1.0
+  ],
+  [
+    "vbuff_grass_16a",
+    "@ref vertex_buffer(87)",
+    "terrain\/grass\/grass_16a.vbuff",
+    "ref",
+    230976.0,
+    1.0,
+    1.0
+  ],
+  [
+    "vbuff_grass_17",
+    "@ref vertex_buffer(88)",
+    "terrain\/grass\/grass_17.vbuff",
+    "ref",
+    23040.0,
+    1.0,
+    1.0
+  ],
+  [
+    "vbuff_grass_17a",
+    "@ref vertex_buffer(89)",
+    "terrain\/grass\/grass_17a.vbuff",
+    "ref",
+    150144.0,
+    1.0,
+    1.0
+  ],
+  [
+    "vbuff_grass_18",
+    "@ref vertex_buffer(90)",
+    "terrain\/grass\/grass_18.vbuff",
+    "ref",
+    557472.0,
+    1.0,
+    1.0
+  ],
+  [
+    "vbuff_grass_18a",
+    "@ref vertex_buffer(91)",
+    "terrain\/grass\/grass_18a.vbuff",
+    "ref",
+    573120.0,
+    1.0,
+    1.0
+  ],
+  [
+    "vbuff_grass_19",
+    "@ref vertex_buffer(92)",
+    "terrain\/grass\/grass_19.vbuff",
+    "ref",
+    31872.0,
+    1.0,
+    1.0
+  ],
+  [
+    "vbuff_grass_19a",
+    "@ref vertex_buffer(93)",
+    "terrain\/grass\/grass_19a.vbuff",
+    "ref",
+    200448.0,
+    1.0,
+    1.0
+  ],
+  [
+    "vbuff_grass_19b",
+    "@ref vertex_buffer(94)",
+    "terrain\/grass\/grass_19b.vbuff",
+    "ref",
+    726912.0,
+    1.0,
+    1.0
+  ],
+  [
+    "vbuff_grass_20",
+    "@ref vertex_buffer(95)",
+    "terrain\/grass\/grass_20.vbuff",
+    "ref",
+    33696.0,
+    1.0,
+    1.0
+  ],
+  [
+    "vbuff_grass_20a",
+    "@ref vertex_buffer(96)",
+    "terrain\/grass\/grass_20a.vbuff",
+    "ref",
+    264672.0,
+    1.0,
+    1.0
+  ],
+  [
+    "vbuff_grass_20b",
+    "@ref vertex_buffer(97)",
+    "terrain\/grass\/grass_20b.vbuff",
+    "ref",
+    780864.0,
+    1.0,
+    1.0
+  ],
+  [
+    "vbuff_grass_20c",
+    "@ref vertex_buffer(98)",
+    "terrain\/grass\/grass_20c.vbuff",
+    "ref",
+    770880.0,
+    1.0,
+    1.0
+  ],
+  [
+    "vbuff_grass_21",
+    "@ref vertex_buffer(99)",
+    "terrain\/grass\/grass_21.vbuff",
+    "ref",
+    26976.0,
+    1.0,
+    1.0
+  ],
+  [
+    "vbuff_grass_21a",
+    "@ref vertex_buffer(100)",
+    "terrain\/grass\/grass_21a.vbuff",
+    "ref",
+    285120.0,
+    1.0,
+    1.0
+  ],
+  [
+    "vbuff_grass_21b",
+    "@ref vertex_buffer(101)",
+    "terrain\/grass\/grass_21b.vbuff",
+    "ref",
+    564864.0,
+    1.0,
+    1.0
+  ],
+  [
+    "vbuff_grass_21c",
+    "@ref vertex_buffer(102)",
+    "terrain\/grass\/grass_21c.vbuff",
+    "ref",
+    557760.0,
+    1.0,
+    1.0
+  ],
+  [
+    "vbuff_grass_21d",
+    "@ref vertex_buffer(103)",
+    "terrain\/grass\/grass_21d.vbuff",
+    "ref",
+    698592.0,
+    1.0,
+    1.0
+  ],
+  [
+    "vbuff_grass_22",
+    "@ref vertex_buffer(104)",
+    "terrain\/grass\/grass_22.vbuff",
+    "ref",
+    30912.0,
+    1.0,
+    1.0
+  ],
+  [
+    "vbuff_grass_22a",
+    "@ref vertex_buffer(105)",
+    "terrain\/grass\/grass_22a.vbuff",
+    "ref",
+    323136.0,
+    1.0,
+    1.0
+  ],
+  [
+    "vbuff_grass_22b",
+    "@ref vertex_buffer(106)",
+    "terrain\/grass\/grass_22b.vbuff",
+    "ref",
+    494016.0,
+    1.0,
+    1.0
+  ],
+  [
+    "vbuff_grass_22c",
+    "@ref vertex_buffer(107)",
+    "terrain\/grass\/grass_22c.vbuff",
+    "ref",
+    403776.0,
+    1.0,
+    1.0
+  ],
+  [
+    "vbuff_grass_22d",
+    "@ref vertex_buffer(108)",
+    "terrain\/grass\/grass_22d.vbuff",
+    "ref",
+    453600.0,
+    1.0,
+    1.0
+  ],
+  [
+    "vbuff_grass_23",
+    "@ref vertex_buffer(109)",
+    "terrain\/grass\/grass_23.vbuff",
+    "ref",
+    31776.0,
+    1.0,
+    1.0
+  ],
+  [
+    "vbuff_grass_23a",
+    "@ref vertex_buffer(110)",
+    "terrain\/grass\/grass_23a.vbuff",
+    "ref",
+    307392.0,
+    1.0,
+    1.0
+  ],
+  [
+    "vbuff_grass_23b",
+    "@ref vertex_buffer(111)",
+    "terrain\/grass\/grass_23b.vbuff",
+    "ref",
+    354816.0,
+    1.0,
+    1.0
+  ],
+  [
+    "vbuff_grass_23c",
+    "@ref vertex_buffer(112)",
+    "terrain\/grass\/grass_23c.vbuff",
+    "ref",
+    355776.0,
+    1.0,
+    1.0
+  ],
+  [
+    "vbuff_grass_24",
+    "@ref vertex_buffer(113)",
+    "terrain\/grass\/grass_24.vbuff",
+    "ref",
+    16512.0,
+    1.0,
+    1.0
+  ],
+  [
+    "vbuff_grass_24a",
+    "@ref vertex_buffer(114)",
+    "terrain\/grass\/grass_24a.vbuff",
+    "ref",
+    110208.0,
+    1.0,
+    1.0
+  ],
+  [
+    "vbuff_grass_24b",
+    "@ref vertex_buffer(115)",
+    "terrain\/grass\/grass_24b.vbuff",
+    "ref",
+    138624.0,
+    1.0,
+    1.0
+  ],
+  [
+    "vbuff_grass_24c",
+    "@ref vertex_buffer(116)",
+    "terrain\/grass\/grass_24c.vbuff",
+    "ref",
+    144000.0,
+    1.0,
+    1.0
+  ],
+  [
+    "vbuff_grass_24d",
+    "@ref vertex_buffer(117)",
+    "terrain\/grass\/grass_24d.vbuff",
+    "ref",
+    186336.0,
+    1.0,
+    1.0
+  ],
+  [
+    "vbuff_grass_25",
+    "@ref vertex_buffer(118)",
+    "terrain\/grass\/grass_25.vbuff",
+    "ref",
+    15552.0,
+    1.0,
+    1.0
+  ],
+  [
+    "vbuff_grass_25a",
+    "@ref vertex_buffer(119)",
+    "terrain\/grass\/grass_25a.vbuff",
+    "ref",
+    112128.0,
+    1.0,
+    1.0
+  ],
+  [
+    "vbuff_diagup_grass_01",
+    "@ref vertex_buffer(120)",
+    "terrain\/diagupgrass\/diagup_grass_01.vbuff",
+    "ref",
+    33312.0,
+    1.0,
+    1.0
+  ],
+  [
+    "vbuff_diagup_grass_02",
+    "@ref vertex_buffer(121)",
+    "terrain\/diagupgrass\/diagup_grass_02.vbuff",
+    "ref",
+    53952.0,
+    1.0,
+    1.0
+  ],
+  [
+    "vbuff_diagup_grass_03",
+    "@ref vertex_buffer(122)",
+    "terrain\/diagupgrass\/diagup_grass_03.vbuff",
+    "ref",
+    24576.0,
+    1.0,
+    1.0
+  ],
+  [
+    "vbuff_wallgrass_01",
+    "@ref vertex_buffer(123)",
+    "terrain\/wallgrass\/wallgrass_01.vbuff",
+    "ref",
+    15168.0,
+    1.0,
+    1.0
+  ],
+  [
+    "vbuff_wallgrass_02",
+    "@ref vertex_buffer(124)",
+    "terrain\/wallgrass\/wallgrass_02.vbuff",
+    "ref",
+    12576.0,
+    1.0,
+    1.0
+  ],
+  [
+    "vbuff_wallgrass_03",
+    "@ref vertex_buffer(125)",
+    "terrain\/wallgrass\/wallgrass_03.vbuff",
+    "ref",
+    15360.0,
+    1.0,
+    1.0
+  ],
+  [
+    "vbuff_wallgrass_04",
+    "@ref vertex_buffer(126)",
+    "terrain\/wallgrass\/wallgrass_04.vbuff",
+    "ref",
+    42240.0,
+    1.0,
+    1.0
+  ],
+  [
+    "vbuff_wallgrass_04a",
+    "@ref vertex_buffer(127)",
+    "terrain\/wallgrass\/wallgrass_04a.vbuff",
+    "ref",
+    61248.0,
+    1.0,
+    1.0
+  ],
+  [
+    "vbuff_wallgrass_05",
+    "@ref vertex_buffer(128)",
+    "terrain\/wallgrass\/wallgrass_05.vbuff",
+    "ref",
+    46272.0,
+    1.0,
+    1.0
+  ],
+  [
+    "vbuff_wallgrass_05a",
+    "@ref vertex_buffer(129)",
+    "terrain\/wallgrass\/wallgrass_05a.vbuff",
+    "ref",
+    81984.0,
+    1.0,
+    1.0
+  ],
+  [
+    "vbuff_wallgrass_06",
+    "@ref vertex_buffer(130)",
+    "terrain\/wallgrass\/wallgrass_06.vbuff",
+    "ref",
+    30912.0,
+    1.0,
+    1.0
+  ],
+  [
+    "vbuff_wallgrass_07",
+    "@ref vertex_buffer(131)",
+    "terrain\/wallgrass\/wallgrass_07.vbuff",
+    "ref",
+    45504.0,
+    1.0,
+    1.0
+  ],
+  [
+    "vbuff_wallgrass_07a",
+    "@ref vertex_buffer(132)",
+    "terrain\/wallgrass\/wallgrass_07a.vbuff",
+    "ref",
+    43200.0,
+    1.0,
+    1.0
+  ],
+  [
+    "vbuff_wallgrass_08",
+    "@ref vertex_buffer(133)",
+    "terrain\/wallgrass\/wallgrass_08.vbuff",
+    "ref",
+    37536.0,
+    1.0,
+    1.0
+  ],
+  [
+    "vbuff_wallroot_01",
+    "@ref vertex_buffer(134)",
+    "terrain\/wallroot\/wallroot_01.vbuff",
+    "ref",
+    13056.0,
+    1.0,
+    1.0
+  ],
+  [
+    "vbuff_wallroot_02",
+    "@ref vertex_buffer(135)",
+    "terrain\/wallroot\/wallroot_02.vbuff",
+    "ref",
+    26304.0,
+    1.0,
+    1.0
+  ],
+  [
+    "vbuff_wallroot_03",
+    "@ref vertex_buffer(136)",
+    "terrain\/wallroot\/wallroot_03.vbuff",
+    "ref",
+    23712.0,
+    1.0,
+    1.0
+  ],
+  [
+    "vbuff_wallroot_04",
+    "@ref vertex_buffer(137)",
+    "terrain\/wallroot\/wallroot_04.vbuff",
+    "ref",
+    38784.0,
+    1.0,
+    1.0
+  ],
+  [
+    "vbuff_wallroot_05",
+    "@ref vertex_buffer(138)",
+    "terrain\/wallroot\/wallroot_05.vbuff",
+    "ref",
+    22944.0,
+    1.0,
+    1.0
+  ],
+  [
+    "vbuff_roofroot_01",
+    "@ref vertex_buffer(139)",
+    "terrain\/roofroot\/roofroot_01.vbuff",
+    "ref",
+    37824.0,
+    1.0,
+    1.0
+  ],
+  [
+    "vbuff_roofroot_02",
+    "@ref vertex_buffer(140)",
+    "terrain\/roofroot\/roofroot_02.vbuff",
+    "ref",
+    15168.0,
+    1.0,
+    1.0
+  ],
+  [
+    "vbuff_roofroot_03",
+    "@ref vertex_buffer(141)",
+    "terrain\/roofroot\/roofroot_03.vbuff",
+    "ref",
+    145632.0,
+    1.0,
+    1.0
+  ],
+  [
+    "vbuff_stone_01_colider",
+    "@ref vertex_buffer(142)",
+    "terrain\/stones\/stone_01_colider.vbuff",
+    "ref",
+    2496.0,
+    1.0,
+    1.0
+  ],
+  [
+    "vbuff_stone_01_show",
+    "@ref vertex_buffer(143)",
+    "terrain\/stones\/stone_01_show.vbuff",
+    "ref",
+    46272.0,
+    1.0,
+    1.0
+  ],
+  [
+    "vbuff_stone_02_colider",
+    "@ref vertex_buffer(144)",
+    "terrain\/stones\/stone_02_colider.vbuff",
+    "ref",
+    3456.0,
+    1.0,
+    1.0
+  ],
+  [
+    "vbuff_stone_02_show",
+    "@ref vertex_buffer(145)",
+    "terrain\/stones\/stone_02_show.vbuff",
+    "ref",
+    28992.0,
+    1.0,
+    1.0
+  ],
+  [
+    "vbuff_stone_03_colider",
+    "@ref vertex_buffer(146)",
+    "terrain\/stones\/stone_03_colider.vbuff",
+    "ref",
+    4224.0,
+    1.0,
+    1.0
+  ],
+  [
+    "vbuff_stone_03_show",
+    "@ref vertex_buffer(147)",
+    "terrain\/stones\/stone_03_show.vbuff",
+    "ref",
+    13920.0,
+    1.0,
+    1.0
+  ],
+  [
+    "vbuff_stone_04_colider",
+    "@ref vertex_buffer(148)",
+    "terrain\/stones\/stone_04_colider.vbuff",
+    "ref",
+    5760.0,
+    1.0,
+    1.0
+  ],
+  [
+    "vbuff_stone_04_show",
+    "@ref vertex_buffer(149)",
+    "terrain\/stones\/stone_04_show.vbuff",
+    "ref",
+    36288.0,
+    1.0,
+    1.0
+  ],
+  [
+    "vbuff_stone_05_colider",
+    "@ref vertex_buffer(150)",
+    "terrain\/stones\/stone_05_colider.vbuff",
+    "ref",
+    2304.0,
+    1.0,
+    1.0
+  ],
+  [
+    "vbuff_stone_05_show",
+    "@ref vertex_buffer(151)",
+    "terrain\/stones\/stone_05_show.vbuff",
+    "ref",
+    11520.0,
+    1.0,
+    1.0
+  ],
+  [
+    "vbuff_stone_06_colider",
+    "@ref vertex_buffer(152)",
+    "terrain\/stones\/stone_06_colider.vbuff",
+    "ref",
+    1248.0,
+    1.0,
+    1.0
+  ],
+  [
+    "vbuff_stone_06_show",
+    "@ref vertex_buffer(153)",
+    "terrain\/stones\/stone_06_show.vbuff",
+    "ref",
+    13056.0,
+    1.0,
+    1.0
+  ],
+  [
+    "vbuff_pilar_01_colider",
+    "@ref vertex_buffer(154)",
+    "terrain\/pilars\/pillar_01_colider.vbuff",
+    "ref",
+    2688.0,
+    1.0,
+    1.0
+  ],
+  [
+    "vbuff_pilar_01_show",
+    "@ref vertex_buffer(155)",
+    "terrain\/pilars\/pillar_01_show.vbuff",
+    "ref",
+    337920.0,
+    1.0,
+    1.0
+  ],
+  [
+    "vbuff_pilar_02_colider",
+    "@ref vertex_buffer(156)",
+    "terrain\/pilars\/pillar_02_colider.vbuff",
+    "ref",
+    3840.0,
+    1.0,
+    1.0
+  ],
+  [
+    "vbuff_pilar_02_show",
+    "@ref vertex_buffer(157)",
+    "terrain\/pilars\/pillar_02_show.vbuff",
+    "ref",
+    195264.0,
+    1.0,
+    1.0
+  ],
+  [
+    "vbuff_pilar_03_colider",
+    "@ref vertex_buffer(158)",
+    "terrain\/pilars\/pillar_03_colider.vbuff",
+    "ref",
+    1536.0,
+    1.0,
+    1.0
+  ],
+  [
+    "vbuff_pilar_03_show",
+    "@ref vertex_buffer(159)",
+    "terrain\/pilars\/pillar_03_show.vbuff",
+    "ref",
+    72960.0,
+    1.0,
+    1.0
+  ],
+  [
+    "tree_trunk_01",
+    "@ref vertex_buffer(160)",
+    "terrain\/trees\/tree_trunk_01.vbuff",
+    "ref",
+    19968.0,
+    1.0,
+    1.0
+  ],
+  [
+    "tree_trunk_01_colider",
+    "@ref vertex_buffer(161)",
+    "terrain\/trees\/tree_trunk_01_colider.vbuff",
+    "ref",
+    7104.0,
+    1.0,
+    1.0
+  ],
+  [
+    "tree_leaves_01",
+    "@ref vertex_buffer(162)",
+    "terrain\/trees\/tree_leaves_01.vbuff",
+    "ref",
+    132480.0,
+    1.0,
+    1.0
+  ],
+  [
+    "tree_leaves_01_hires",
+    "@ref vertex_buffer(163)",
+    "terrain\/trees\/tree_leaves_01_hires.vbuff",
+    "ref",
+    8557632.0,
+    1.0,
+    1.0
+  ],
+  [
+    "tree_leaves_01a_hires",
+    "@ref vertex_buffer(164)",
+    "terrain\/trees\/tree_leaves_01a_hires.vbuff",
+    "ref",
+    8454528.0,
+    1.0,
+    1.0
+  ],
+  [
+    "tree_trunk_02",
+    "@ref vertex_buffer(165)",
+    "terrain\/trees\/tree_trunk_02.vbuff",
+    "ref",
+    34656.0,
+    1.0,
+    1.0
+  ],
+  [
+    "tree_trunk_02_colider",
+    "@ref vertex_buffer(166)",
+    "terrain\/trees\/tree_trunk_02_colider.vbuff",
+    "ref",
+    2688.0,
+    1.0,
+    1.0
+  ],
+  [
+    "tree_leaves_02",
+    "@ref vertex_buffer(167)",
+    "terrain\/trees\/tree_leaves_02.vbuff",
+    "ref",
+    79680.0,
+    1.0,
+    1.0
+  ],
+  [
+    "vbuff_wall_01_w4h3_sdoor_colider",
+    "@ref vertex_buffer(168)",
+    "terrain\/open_walls\/wall_01_w4h3_sdoor_colider.vbuff",
+    "ref",
+    8064.0,
+    1.0,
+    1.0
+  ],
+  [
+    "vbuff_wall_01_w4h3_sdoor_show",
+    "@ref vertex_buffer(169)",
+    "terrain\/open_walls\/wall_01_w4h3_sdoor_show.vbuff",
+    "ref",
+    732288.0,
+    1.0,
+    1.0
+  ],
+  [
+    "vbuff_wall_03_w4h3_sdoor_show",
+    "@ref vertex_buffer(170)",
+    "terrain\/open_walls\/wall_03_w4h3_sdoor_show.vbuff",
+    "ref",
+    275328.0,
+    1.0,
+    1.0
+  ],
+  [
+    "vbuff_wall_01_w4h3_colider",
+    "@ref vertex_buffer(171)",
+    "terrain\/open_walls\/wall_01_w4h3_colider.vbuff",
+    "ref",
+    7296.0,
+    1.0,
+    1.0
+  ],
+  [
+    "vbuff_wall_01_w4h3_show",
+    "@ref vertex_buffer(172)",
+    "terrain\/open_walls\/wall_01_w4h3_show.vbuff",
+    "ref",
+    509952.0,
+    1.0,
+    1.0
+  ],
+  [
+    "vbuff_wall_03_w4h3_show",
+    "@ref vertex_buffer(173)",
+    "terrain\/open_walls\/wall_03_w4h3_show.vbuff",
+    "ref",
+    164736.0,
+    1.0,
+    1.0
+  ],
+  [
+    "vbuff_wall_01_w4h3_broken_colider",
+    "@ref vertex_buffer(174)",
+    "terrain\/open_walls\/wall_01_w4h3_broken_colider.vbuff",
+    "ref",
+    7296.0,
+    1.0,
+    1.0
+  ],
+  [
+    "vbuff_wall_01_w4h3_broken_show",
+    "@ref vertex_buffer(175)",
+    "terrain\/open_walls\/wall_01_w4h3_broken_show.vbuff",
+    "ref",
+    481920.0,
+    1.0,
+    1.0
+  ],
+  [
+    "vbuff_wall_03_w4h3_broken_show",
+    "@ref vertex_buffer(176)",
+    "terrain\/open_walls\/wall_03_w4h3_broken_show.vbuff",
+    "ref",
+    240096.0,
+    1.0,
+    1.0
+  ],
+  [
+    "vbuff_floor_3x3_01_colider",
+    "@ref vertex_buffer(177)",
+    "terrain\/floors\/floor_3x3_01_colider.vbuff",
+    "ref",
+    4032.0,
+    1.0,
+    1.0
+  ],
+  [
+    "vbuff_floor_3x3_01_show",
+    "@ref vertex_buffer(178)",
+    "terrain\/floors\/floor_3x3_01_show.vbuff",
+    "ref",
+    124992.0,
+    1.0,
+    1.0
+  ],
+  [
+    "vbuff_floor_5x5_01_colider",
+    "@ref vertex_buffer(179)",
+    "terrain\/floors\/floor_5x5_01_colider.vbuff",
+    "ref",
+    8640.0,
+    1.0,
+    1.0
+  ],
+  [
+    "vbuff_floor_5x5_01_show",
+    "@ref vertex_buffer(180)",
+    "terrain\/floors\/floor_5x5_01_show.vbuff",
+    "ref",
+    725568.0,
+    1.0,
+    1.0
+  ],
+  [
+    "vbuff_floor_5x5_02_colider",
+    "@ref vertex_buffer(181)",
+    "terrain\/floors\/floor_5x5_02_colider.vbuff",
+    "ref",
+    13440.0,
+    1.0,
+    1.0
+  ],
+  [
+    "vbuff_floor_5x5_02_show",
+    "@ref vertex_buffer(182)",
+    "terrain\/floors\/floor_5x5_02_show.vbuff",
+    "ref",
+    161280.0,
+    1.0,
+    1.0
+  ],
+  [
+    "vbuff_floor_5x5_03_colider",
+    "@ref vertex_buffer(183)",
+    "terrain\/floors\/floor_5x5_03_colider.vbuff",
+    "ref",
+    8640.0,
+    1.0,
+    1.0
+  ],
+  [
+    "vbuff_floor_5x5_03_show",
+    "@ref vertex_buffer(184)",
+    "terrain\/floors\/floor_5x5_03_show.vbuff",
+    "ref",
+    28032.0,
+    1.0,
+    1.0
+  ],
+  [
+    "vbuff_floor_5x5_03a_show",
+    "@ref vertex_buffer(185)",
+    "terrain\/floors\/floor_5x5_03a_show.vbuff",
+    "ref",
+    377472.0,
+    1.0,
+    1.0
+  ],
+  [
+    "vbuff_floor_d5_01_colider",
+    "@ref vertex_buffer(186)",
+    "terrain\/floors\/floor_d5_01_colider.vbuff",
+    "ref",
+    8640.0,
+    1.0,
+    1.0
+  ],
+  [
+    "vbuff_floor_d5_01_show",
+    "@ref vertex_buffer(187)",
+    "terrain\/floors\/floor_d5_01_show.vbuff",
+    "ref",
+    612480.0,
+    1.0,
+    1.0
+  ],
+  [
+    "vbuff_entrance_01_5x5_colider",
+    "@ref vertex_buffer(188)",
+    "terrain\/entrances\/entrance_01_5x5_colider.vbuff",
+    "ref",
+    12384.0,
+    1.0,
+    1.0
+  ],
+  [
+    "vbuff_entrance_01_5x5_show",
+    "@ref vertex_buffer(189)",
+    "terrain\/entrances\/entrance_01_5x5_show.vbuff",
+    "ref",
+    381024.0,
+    1.0,
+    1.0
+  ],
+  [
+    "vbuff_entrance_02_5x5_colider",
+    "@ref vertex_buffer(190)",
+    "terrain\/entrances\/entrance_02_5x5_colider.vbuff",
+    "ref",
+    16128.0,
+    1.0,
+    1.0
+  ],
+  [
+    "vbuff_entrance_02_5x5_show",
+    "@ref vertex_buffer(191)",
+    "terrain\/entrances\/entrance_02_5x5_show.vbuff",
+    "ref",
+    1826112.0,
+    1.0,
+    1.0
+  ],
+  [
+    "vbuff_entrance_03_5x5_colider",
+    "@ref vertex_buffer(192)",
+    "terrain\/entrances\/entrance_03_5x5_colider.vbuff",
+    "ref",
+    12864.0,
+    1.0,
+    1.0
+  ],
+  [
+    "vbuff_entrance_03_5x5_show",
+    "@ref vertex_buffer(193)",
+    "terrain\/entrances\/entrance_03_5x5_show.vbuff",
+    "ref",
+    343296.0,
+    1.0,
+    1.0
+  ],
+  [
+    "vbuff_deco_ent_5x5_01",
+    "@ref vertex_buffer(194)",
+    "terrain\/decorations\/deco_ent_5x5_01.vbuff",
+    "ref",
+    185856.0,
+    1.0,
+    1.0
+  ],
+  [
+    "vbuff_deco_ent_5x5_03",
+    "@ref vertex_buffer(195)",
+    "terrain\/decorations\/deco_ent_5x5_03.vbuff",
+    "ref",
+    2867232.0,
+    1.0,
+    1.0
+  ],
+  [
+    "vbuff_deco_floor_5x5_01",
+    "@ref vertex_buffer(196)",
+    "terrain\/decorations\/deco_floor_5x5_01.vbuff",
+    "ref",
+    194112.0,
+    1.0,
+    1.0
+  ],
+  [
+    "vbuff_deco_floor_5x5_03",
+    "@ref vertex_buffer(197)",
+    "terrain\/decorations\/deco_floor_5x5_03.vbuff",
+    "ref",
+    1231104.0,
+    1.0,
+    1.0
+  ],
+  [
+    "vbuff_deadend_2x2_01_colider",
+    "@ref vertex_buffer(198)",
+    "terrain\/decorations\/deadend_2x2_01_colider.vbuff",
+    "ref",
+    768.0,
+    1.0,
+    1.0
+  ],
+  [
+    "vbuff_deadend_2x2_01_show",
+    "@ref vertex_buffer(199)",
+    "terrain\/decorations\/deadend_2x2_01_show.vbuff",
+    "ref",
+    186240.0,
+    1.0,
+    1.0
+  ],
+  [
+    "vbuff_deadend_2x2_03_show",
+    "@ref vertex_buffer(200)",
+    "terrain\/decorations\/deadend_2x2_03_show.vbuff",
+    "ref",
+    47424.0,
+    1.0,
+    1.0
+  ],
+  [
+    "vbuff_chamber_3x3h1_colider",
+    "@ref vertex_buffer(201)",
+    "terrain\/chambers\/chamber_3x3h1_colider.vbuff",
+    "ref",
+    17472.0,
+    1.0,
+    1.0
+  ],
+  [
+    "vbuff_chamber_3x3h1_show",
+    "@ref vertex_buffer(202)",
+    "terrain\/chambers\/chamber_3x3h1_show.vbuff",
+    "ref",
+    2220960.0,
+    1.0,
+    1.0
+  ],
+  [
+    "vbuff_corridor_01_w3d1_collider",
+    "@ref vertex_buffer(203)",
+    "terrain\/corridors\/corridor_01_w3d1_collider.vbuff",
+    "ref",
+    5760.0,
+    1.0,
+    1.0
+  ],
+  [
+    "vbuff_corridor_01_w3d1_show",
+    "@ref vertex_buffer(204)",
+    "terrain\/corridors\/corridor_01_w3d1_show.vbuff",
+    "ref",
+    641472.0,
+    1.0,
+    1.0
+  ],
+  [
+    "vbuff_corridor_01up_w3d1_collider",
+    "@ref vertex_buffer(205)",
+    "terrain\/corridors\/corridor_01up_w3d1_collider.vbuff",
+    "ref",
+    5760.0,
+    1.0,
+    1.0
+  ],
+  [
+    "vbuff_corridor_01up_w3d1_show",
+    "@ref vertex_buffer(206)",
+    "terrain\/corridors\/corridor_01up_w3d1_show.vbuff",
+    "ref",
+    703296.0,
+    1.0,
+    1.0
+  ],
+  [
+    "vbuff_corridor_01down_w3d1_collider",
+    "@ref vertex_buffer(207)",
+    "terrain\/corridors\/corridor_01down_w3d1_collider.vbuff",
+    "ref",
+    5760.0,
+    1.0,
+    1.0
+  ],
+  [
+    "vbuff_corridor_01down_w3d1_show",
+    "@ref vertex_buffer(208)",
+    "terrain\/corridors\/corridor_01down_w3d1_show.vbuff",
+    "ref",
+    703296.0,
+    1.0,
+    1.0
+  ],
+  [
+    "ass_pivot_01_colider",
+    "@ref vertex_buffer(209)",
+    "bodyparts\/coliders\/ass_pivot_01_colider.vbuff",
+    "ref",
+    1152.0,
+    1.0,
+    1.0
+  ],
+  [
+    "spine_01_colider",
+    "@ref vertex_buffer(210)",
+    "bodyparts\/coliders\/spine_01_colider.vbuff",
+    "ref",
+    1152.0,
+    1.0,
+    1.0
+  ],
+  [
+    "spine_02_colider",
+    "@ref vertex_buffer(211)",
+    "bodyparts\/coliders\/spine_02_colider.vbuff",
+    "ref",
+    1152.0,
+    1.0,
+    1.0
+  ],
+  [
+    "neck_01_colider",
+    "@ref vertex_buffer(212)",
+    "bodyparts\/coliders\/neck_01_colider.vbuff",
+    "ref",
+    1152.0,
+    1.0,
+    1.0
+  ],
+  [
+    "head_01_colider",
+    "@ref vertex_buffer(213)",
+    "bodyparts\/coliders\/head_01_colider.vbuff",
+    "ref",
+    1152.0,
+    1.0,
+    1.0
+  ],
+  [
+    "jaw_01_colider",
+    "@ref vertex_buffer(214)",
+    "bodyparts\/coliders\/jaw_01_colider.vbuff",
+    "ref",
+    1152.0,
+    1.0,
+    1.0
+  ],
+  [
+    "shoulder_R_01_colider",
+    "@ref vertex_buffer(215)",
+    "bodyparts\/coliders\/shoulder_R_01_colider.vbuff",
+    "ref",
+    1152.0,
+    1.0,
+    1.0
+  ],
+  [
+    "Uarm_R_01_colider",
+    "@ref vertex_buffer(216)",
+    "bodyparts\/coliders\/Uarm_R_01_colider.vbuff",
+    "ref",
+    1152.0,
+    1.0,
+    1.0
+  ],
+  [
+    "Farm_R_01_colider",
+    "@ref vertex_buffer(217)",
+    "bodyparts\/coliders\/Farm_R_01_colider.vbuff",
+    "ref",
+    1152.0,
+    1.0,
+    1.0
+  ],
+  [
+    "hand_R_01_colider",
+    "@ref vertex_buffer(218)",
+    "bodyparts\/coliders\/hand_R_01_colider.vbuff",
+    "ref",
+    1152.0,
+    1.0,
+    1.0
+  ],
+  [
+    "shoulder_L_01_colider",
+    "@ref vertex_buffer(219)",
+    "bodyparts\/coliders\/shoulder_L_01_colider.vbuff",
+    "ref",
+    1152.0,
+    1.0,
+    1.0
+  ],
+  [
+    "Uarm_L_01_colider",
+    "@ref vertex_buffer(220)",
+    "bodyparts\/coliders\/Uarm_L_01_colider.vbuff",
+    "ref",
+    1152.0,
+    1.0,
+    1.0
+  ],
+  [
+    "Farm_L_01_colider",
+    "@ref vertex_buffer(221)",
+    "bodyparts\/coliders\/Farm_L_01_colider.vbuff",
+    "ref",
+    1152.0,
+    1.0,
+    1.0
+  ],
+  [
+    "hand_L_01_colider",
+    "@ref vertex_buffer(222)",
+    "bodyparts\/coliders\/hand_L_01_colider.vbuff",
+    "ref",
+    1152.0,
+    1.0,
+    1.0
+  ],
+  [
+    "hip_R_01_colider",
+    "@ref vertex_buffer(223)",
+    "bodyparts\/coliders\/hip_R_01_colider.vbuff",
+    "ref",
+    1152.0,
+    1.0,
+    1.0
+  ],
+  [
+    "Uleg_R_01_colider",
+    "@ref vertex_buffer(224)",
+    "bodyparts\/coliders\/Uleg_R_01_colider.vbuff",
+    "ref",
+    1152.0,
+    1.0,
+    1.0
+  ],
+  [
+    "Lleg_R_01_colider",
+    "@ref vertex_buffer(225)",
+    "bodyparts\/coliders\/Lleg_R_01_colider.vbuff",
+    "ref",
+    1152.0,
+    1.0,
+    1.0
+  ],
+  [
+    "foot_R_01_colider",
+    "@ref vertex_buffer(226)",
+    "bodyparts\/coliders\/foot_R_01_colider.vbuff",
+    "ref",
+    1152.0,
+    1.0,
+    1.0
+  ],
+  [
+    "toe_R_01_colider",
+    "@ref vertex_buffer(227)",
+    "bodyparts\/coliders\/toe_R_01_colider.vbuff",
+    "ref",
+    1152.0,
+    1.0,
+    1.0
+  ],
+  [
+    "hip_L_01_colider",
+    "@ref vertex_buffer(228)",
+    "bodyparts\/coliders\/hip_L_01_colider.vbuff",
+    "ref",
+    1152.0,
+    1.0,
+    1.0
+  ],
+  [
+    "Uleg_L_01_colider",
+    "@ref vertex_buffer(229)",
+    "bodyparts\/coliders\/Uleg_L_01_colider.vbuff",
+    "ref",
+    1152.0,
+    1.0,
+    1.0
+  ],
+  [
+    "Lleg_L_01_colider",
+    "@ref vertex_buffer(230)",
+    "bodyparts\/coliders\/Lleg_L_01_colider.vbuff",
+    "ref",
+    1152.0,
+    1.0,
+    1.0
+  ],
+  [
+    "foot_L_01_colider",
+    "@ref vertex_buffer(231)",
+    "bodyparts\/coliders\/foot_L_01_colider.vbuff",
+    "ref",
+    1152.0,
+    1.0,
+    1.0
+  ],
+  [
+    "toe_L_01_colider",
+    "@ref vertex_buffer(232)",
+    "bodyparts\/coliders\/toe_L_01_colider.vbuff",
+    "ref",
+    1152.0,
+    1.0,
+    1.0
+  ],
+  [
+    "ass_pivot_01_basic",
+    "@ref vertex_buffer(233)",
+    "bodyparts\/basic\/ass_pivot_01_basic.vbuff",
+    "ref",
+    1536.0,
+    1.0,
+    1.0
+  ],
+  [
+    "spine_01_basic",
+    "@ref vertex_buffer(234)",
+    "bodyparts\/basic\/spine_01_basic.vbuff",
+    "ref",
+    1920.0,
+    1.0,
+    1.0
+  ],
+  [
+    "spine_02_basic",
+    "@ref vertex_buffer(235)",
+    "bodyparts\/basic\/spine_02_basic.vbuff",
+    "ref",
+    3072.0,
+    1.0,
+    1.0
+  ],
+  [
+    "neck_01_basic",
+    "@ref vertex_buffer(236)",
+    "bodyparts\/basic\/neck_01_basic.vbuff",
+    "ref",
+    1152.0,
+    1.0,
+    1.0
+  ],
+  [
+    "head_01_basic",
+    "@ref vertex_buffer(237)",
+    "bodyparts\/basic\/head_01_basic.vbuff",
+    "ref",
+    2304.0,
+    1.0,
+    1.0
+  ],
+  [
+    "jaw_01_basic",
+    "@ref vertex_buffer(238)",
+    "bodyparts\/basic\/jaw_01_basic.vbuff",
+    "ref",
+    960.0,
+    1.0,
+    1.0
+  ],
+  [
+    "shoulder_R_01_basic",
+    "@ref vertex_buffer(239)",
+    "bodyparts\/basic\/shoulder_R_01_basic.vbuff",
+    "ref",
+    1920.0,
+    1.0,
+    1.0
+  ],
+  [
+    "Uarm_R_01_basic",
+    "@ref vertex_buffer(240)",
+    "bodyparts\/basic\/Uarm_R_01_basic.vbuff",
+    "ref",
+    1920.0,
+    1.0,
+    1.0
+  ],
+  [
+    "Farm_R_01_basic",
+    "@ref vertex_buffer(241)",
+    "bodyparts\/basic\/Farm_R_01_basic.vbuff",
+    "ref",
+    1152.0,
+    1.0,
+    1.0
+  ],
+  [
+    "hand_R_01_basic",
+    "@ref vertex_buffer(242)",
+    "bodyparts\/basic\/hand_R_01_basic.vbuff",
+    "ref",
+    3264.0,
+    1.0,
+    1.0
+  ],
+  [
+    "shoulder_L_01_basic",
+    "@ref vertex_buffer(243)",
+    "bodyparts\/basic\/shoulder_L_01_basic.vbuff",
+    "ref",
+    1920.0,
+    1.0,
+    1.0
+  ],
+  [
+    "Uarm_L_01_basic",
+    "@ref vertex_buffer(244)",
+    "bodyparts\/basic\/Uarm_L_01_basic.vbuff",
+    "ref",
+    1920.0,
+    1.0,
+    1.0
+  ],
+  [
+    "Farm_L_01_basic",
+    "@ref vertex_buffer(245)",
+    "bodyparts\/basic\/Farm_L_01_basic.vbuff",
+    "ref",
+    1152.0,
+    1.0,
+    1.0
+  ],
+  [
+    "hand_L_01_basic",
+    "@ref vertex_buffer(246)",
+    "bodyparts\/basic\/hand_L_01_basic.vbuff",
+    "ref",
+    3264.0,
+    1.0,
+    1.0
+  ],
+  [
+    "hip_R_01_basic",
+    "@ref vertex_buffer(247)",
+    "bodyparts\/basic\/hip_R_01_basic.vbuff",
+    "ref",
+    1152.0,
+    1.0,
+    1.0
+  ],
+  [
+    "Uleg_R_01_basic",
+    "@ref vertex_buffer(248)",
+    "bodyparts\/basic\/Uleg_R_01_basic.vbuff",
+    "ref",
+    1920.0,
+    1.0,
+    1.0
+  ],
+  [
+    "Lleg_R_01_basic",
+    "@ref vertex_buffer(249)",
+    "bodyparts\/basic\/Lleg_R_01_basic.vbuff",
+    "ref",
+    1920.0,
+    1.0,
+    1.0
+  ],
+  [
+    "foot_R_01_basic",
+    "@ref vertex_buffer(250)",
+    "bodyparts\/basic\/foot_R_01_basic.vbuff",
+    "ref",
+    1536.0,
+    1.0,
+    1.0
+  ],
+  [
+    "toe_R_01_basic",
+    "@ref vertex_buffer(251)",
+    "bodyparts\/basic\/toe_R_01_basic.vbuff",
+    "ref",
+    960.0,
+    1.0,
+    1.0
+  ],
+  [
+    "hip_L_01_basic",
+    "@ref vertex_buffer(252)",
+    "bodyparts\/basic\/hip_L_01_basic.vbuff",
+    "ref",
+    1152.0,
+    1.0,
+    1.0
+  ],
+  [
+    "Uleg_L_01_basic",
+    "@ref vertex_buffer(253)",
+    "bodyparts\/basic\/Uleg_L_01_basic.vbuff",
+    "ref",
+    1920.0,
+    1.0,
+    1.0
+  ],
+  [
+    "Lleg_L_01_basic",
+    "@ref vertex_buffer(254)",
+    "bodyparts\/basic\/Lleg_L_01_basic.vbuff",
+    "ref",
+    1920.0,
+    1.0,
+    1.0
+  ],
+  [
+    "foot_L_01_basic",
+    "@ref vertex_buffer(255)",
+    "bodyparts\/basic\/foot_L_01_basic.vbuff",
+    "ref",
+    1536.0,
+    1.0,
+    1.0
+  ],
+  [
+    "toe_L_01_basic",
+    "@ref vertex_buffer(256)",
+    "bodyparts\/basic\/toe_L_01_basic.vbuff",
+    "ref",
+    960.0,
+    1.0,
+    1.0
+  ],
+  [
+    "ass_pivot_01_theme_01",
+    "@ref vertex_buffer(257)",
+    "bodyparts\/theme_01\/ass_pivot_01_theme_01.vbuff",
+    "ref",
+    4416.0,
+    1.0,
+    1.0
+  ],
+  [
+    "spine_01_theme_01",
+    "@ref vertex_buffer(258)",
+    "bodyparts\/theme_01\/spine_01_theme_01.vbuff",
+    "ref",
+    2880.0,
+    1.0,
+    1.0
+  ],
+  [
+    "spine_02_theme_01",
+    "@ref vertex_buffer(259)",
+    "bodyparts\/theme_01\/spine_02_theme_01.vbuff",
+    "ref",
+    4224.0,
+    1.0,
+    1.0
+  ],
+  [
+    "neck_01_theme_01",
+    "@ref vertex_buffer(260)",
+    "bodyparts\/theme_01\/neck_01_theme_01.vbuff",
+    "ref",
+    2112.0,
+    1.0,
+    1.0
+  ],
+  [
+    "head_01_theme_01",
+    "@ref vertex_buffer(261)",
+    "bodyparts\/theme_01\/head_01_theme_01.vbuff",
+    "ref",
+    4416.0,
+    1.0,
+    1.0
+  ],
+  [
+    "jaw_01_theme_01",
+    "@ref vertex_buffer(262)",
+    "bodyparts\/theme_01\/jaw_01_theme_01.vbuff",
+    "ref",
+    1536.0,
+    1.0,
+    1.0
+  ],
+  [
+    "shoulder_R_01_theme_01",
+    "@ref vertex_buffer(263)",
+    "bodyparts\/theme_01\/shoulder_R_01_theme_01.vbuff",
+    "ref",
+    1536.0,
+    1.0,
+    1.0
+  ],
+  [
+    "Uarm_R_01_theme_01",
+    "@ref vertex_buffer(264)",
+    "bodyparts\/theme_01\/Uarm_R_01_theme_01.vbuff",
+    "ref",
+    2880.0,
+    1.0,
+    1.0
+  ],
+  [
+    "Farm_R_01_theme_01",
+    "@ref vertex_buffer(265)",
+    "bodyparts\/theme_01\/Farm_R_01_theme_01.vbuff",
+    "ref",
+    1920.0,
+    1.0,
+    1.0
+  ],
+  [
+    "hand_R_01_theme_01",
+    "@ref vertex_buffer(266)",
+    "bodyparts\/theme_01\/hand_R_01_theme_01.vbuff",
+    "ref",
+    3072.0,
+    1.0,
+    1.0
+  ],
+  [
+    "shoulder_L_01_theme_01",
+    "@ref vertex_buffer(267)",
+    "bodyparts\/theme_01\/shoulder_L_01_theme_01.vbuff",
+    "ref",
+    1536.0,
+    1.0,
+    1.0
+  ],
+  [
+    "Uarm_L_01_theme_01",
+    "@ref vertex_buffer(268)",
+    "bodyparts\/theme_01\/Uarm_L_01_theme_01.vbuff",
+    "ref",
+    2880.0,
+    1.0,
+    1.0
+  ],
+  [
+    "Farm_L_01_theme_01",
+    "@ref vertex_buffer(269)",
+    "bodyparts\/theme_01\/Farm_L_01_theme_01.vbuff",
+    "ref",
+    1920.0,
+    1.0,
+    1.0
+  ],
+  [
+    "hand_L_01_theme_01",
+    "@ref vertex_buffer(270)",
+    "bodyparts\/theme_01\/hand_L_01_theme_01.vbuff",
+    "ref",
+    3072.0,
+    1.0,
+    1.0
+  ],
+  [
+    "hip_R_01_theme_01",
+    "@ref vertex_buffer(271)",
+    "bodyparts\/theme_01\/hip_R_01_theme_01.vbuff",
+    "ref",
+    1344.0,
+    1.0,
+    1.0
+  ],
+  [
+    "Uleg_R_01_theme_01",
+    "@ref vertex_buffer(272)",
+    "bodyparts\/theme_01\/Uleg_R_01_theme_01.vbuff",
+    "ref",
+    3264.0,
+    1.0,
+    1.0
+  ],
+  [
+    "Lleg_R_01_theme_01",
+    "@ref vertex_buffer(273)",
+    "bodyparts\/theme_01\/Lleg_R_01_theme_01.vbuff",
+    "ref",
+    4224.0,
+    1.0,
+    1.0
+  ],
+  [
+    "foot_R_01_theme_01",
+    "@ref vertex_buffer(274)",
+    "bodyparts\/theme_01\/foot_R_01_theme_01.vbuff",
+    "ref",
+    1536.0,
+    1.0,
+    1.0
+  ],
+  [
+    "toe_R_01_theme_01",
+    "@ref vertex_buffer(275)",
+    "bodyparts\/theme_01\/toe_R_01_theme_01.vbuff",
+    "ref",
+    960.0,
+    1.0,
+    1.0
+  ],
+  [
+    "hip_L_01_theme_01",
+    "@ref vertex_buffer(276)",
+    "bodyparts\/theme_01\/hip_L_01_theme_01.vbuff",
+    "ref",
+    1344.0,
+    1.0,
+    1.0
+  ],
+  [
+    "Uleg_L_01_theme_01",
+    "@ref vertex_buffer(277)",
+    "bodyparts\/theme_01\/Uleg_L_01_theme_01.vbuff",
+    "ref",
+    3264.0,
+    1.0,
+    1.0
+  ],
+  [
+    "Lleg_L_01_theme_01",
+    "@ref vertex_buffer(278)",
+    "bodyparts\/theme_01\/Lleg_L_01_theme_01.vbuff",
+    "ref",
+    4224.0,
+    1.0,
+    1.0
+  ],
+  [
+    "foot_L_01_theme_01",
+    "@ref vertex_buffer(279)",
+    "bodyparts\/theme_01\/foot_L_01_theme_01.vbuff",
+    "ref",
+    1536.0,
+    1.0,
+    1.0
+  ],
+  [
+    "toe_L_01_theme_01",
+    "@ref vertex_buffer(280)",
+    "bodyparts\/theme_01\/toe_L_01_theme_01.vbuff",
+    "ref",
+    960.0,
+    1.0,
+    1.0
+  ],
+  [
+    "spine_01_theme_02",
+    "@ref vertex_buffer(281)",
+    "bodyparts\/theme_02\/spine_01_theme_02.vbuff",
+    "ref",
+    4128.0,
+    1.0,
+    1.0
+  ],
+  [
+    "spine_02_theme_02",
+    "@ref vertex_buffer(282)",
+    "bodyparts\/theme_02\/spine_02_theme_02.vbuff",
+    "ref",
+    7968.0,
+    1.0,
+    1.0
+  ],
+  [
+    "neck_01_theme_02",
+    "@ref vertex_buffer(283)",
+    "bodyparts\/theme_02\/neck_01_theme_02.vbuff",
+    "ref",
+    2496.0,
+    1.0,
+    1.0
+  ],
+  [
+    "neck_01_theme_02_heroic",
+    "@ref vertex_buffer(284)",
+    "bodyparts\/theme_02\/neck_01_theme_02_heroic.vbuff",
+    "ref",
+    2496.0,
+    1.0,
+    1.0
+  ],
+  [
+    "head_01_theme_02",
+    "@ref vertex_buffer(285)",
+    "bodyparts\/theme_02\/head_01_theme_02.vbuff",
+    "ref",
+    8256.0,
+    1.0,
+    1.0
+  ],
+  [
+    "jaw_01_theme_02",
+    "@ref vertex_buffer(286)",
+    "bodyparts\/theme_02\/jaw_01_theme_02.vbuff",
+    "ref",
+    4224.0,
+    1.0,
+    1.0
+  ],
+  [
+    "shoulder_R_01_theme_02",
+    "@ref vertex_buffer(287)",
+    "bodyparts\/theme_02\/shoulder_R_01_theme_02.vbuff",
+    "ref",
+    2592.0,
+    1.0,
+    1.0
+  ],
+  [
+    "Uarm_R_01_theme_02",
+    "@ref vertex_buffer(288)",
+    "bodyparts\/theme_02\/Uarm_R_01_theme_02.vbuff",
+    "ref",
+    6816.0,
+    1.0,
+    1.0
+  ],
+  [
+    "shoulder_L_01_theme_02",
+    "@ref vertex_buffer(289)",
+    "bodyparts\/theme_02\/shoulder_L_01_theme_02.vbuff",
+    "ref",
+    2592.0,
+    1.0,
+    1.0
+  ],
+  [
+    "Uarm_L_01_theme_02",
+    "@ref vertex_buffer(290)",
+    "bodyparts\/theme_02\/Uarm_L_01_theme_02.vbuff",
+    "ref",
+    6816.0,
+    1.0,
+    1.0
+  ],
+  [
+    "Lleg_R_01_theme_02",
+    "@ref vertex_buffer(291)",
+    "bodyparts\/theme_02\/Lleg_R_01_theme_02.vbuff",
+    "ref",
+    7296.0,
+    1.0,
+    1.0
+  ],
+  [
+    "Lleg_L_01_theme_02",
+    "@ref vertex_buffer(292)",
+    "bodyparts\/theme_02\/Lleg_L_01_theme_02.vbuff",
+    "ref",
+    6144.0,
+    1.0,
+    1.0
+  ],
+  [
+    "shoulder_R_01_theme_03",
+    "@ref vertex_buffer(293)",
+    "bodyparts\/theme_03\/shoulder_R_01_theme_03.vbuff",
+    "ref",
+    3264.0,
+    1.0,
+    1.0
+  ],
+  [
+    "Uarm_R_01_theme_03",
+    "@ref vertex_buffer(294)",
+    "bodyparts\/theme_03\/Uarm_R_01_theme_03.vbuff",
+    "ref",
+    7488.0,
+    1.0,
+    1.0
+  ],
+  [
+    "shoulder_L_01_theme_03",
+    "@ref vertex_buffer(295)",
+    "bodyparts\/theme_03\/shoulder_L_01_theme_03.vbuff",
+    "ref",
+    3264.0,
+    1.0,
+    1.0
+  ],
+  [
+    "Uarm_L_01_theme_03",
+    "@ref vertex_buffer(296)",
+    "bodyparts\/theme_03\/Uarm_L_01_theme_03.vbuff",
+    "ref",
+    7488.0,
+    1.0,
+    1.0
+  ],
+  [
+    "Lleg_R_01_theme_03",
+    "@ref vertex_buffer(297)",
+    "bodyparts\/theme_03\/Lleg_R_01_theme_03.vbuff",
+    "ref",
+    24576.0,
+    1.0,
+    1.0
+  ],
+  [
+    "Lleg_L_01_theme_03",
+    "@ref vertex_buffer(298)",
+    "bodyparts\/theme_03\/Lleg_L_01_theme_03.vbuff",
+    "ref",
+    24576.0,
+    1.0,
+    1.0
+  ],
+  [
+    "head_01_theme_03",
+    "@ref vertex_buffer(299)",
+    "bodyparts\/theme_03\/head_01_theme_03.vbuff",
+    "ref",
+    10752.0,
+    1.0,
+    1.0
+  ],
+  [
+    "Uarm_R_01_theme_04",
+    "@ref vertex_buffer(300)",
+    "bodyparts\/theme_04\/Uarm_R_01_theme_04.vbuff",
+    "ref",
+    8640.0,
+    1.0,
+    1.0
+  ],
+  [
+    "Uarm_L_01_theme_04",
+    "@ref vertex_buffer(301)",
+    "bodyparts\/theme_04\/Uarm_L_01_theme_04.vbuff",
+    "ref",
+    8640.0,
+    1.0,
+    1.0
+  ],
+  [
+    "sword1",
+    "@ref vertex_buffer(302)",
+    "equipmennt\/weapons\/sword1.vbuff",
+    "ref",
+    5952.0,
+    1.0,
+    1.0
+  ],
+  [
+    "sword1_colider",
+    "@ref vertex_buffer(303)",
+    "equipmennt\/weapons\/sword1_colider.vbuff",
+    "ref",
+    2208.0,
+    1.0,
+    1.0
+  ],
+  [
+    "sword2",
+    "@ref vertex_buffer(304)",
+    "equipmennt\/weapons\/sword2.vbuff",
+    "ref",
+    5952.0,
+    1.0,
+    1.0
+  ],
+  [
+    "sword2_colider",
+    "@ref vertex_buffer(305)",
+    "equipmennt\/weapons\/sword2_colider.vbuff",
+    "ref",
+    2208.0,
+    1.0,
+    1.0
+  ],
+  [
+    "scabbard1",
+    "@ref vertex_buffer(306)",
+    "equipmennt\/weapons\/scabbard1.vbuff",
+    "ref",
+    4224.0,
+    1.0,
+    1.0
+  ],
+  [
+    "scabbard1_colider",
+    "@ref vertex_buffer(307)",
+    "equipmennt\/weapons\/scabbard1_colider.vbuff",
+    "ref",
+    1152.0,
+    1.0,
+    1.0
+  ],
+  [
+    "scabbard2",
+    "@ref vertex_buffer(308)",
+    "equipmennt\/weapons\/scabbard2.vbuff",
+    "ref",
+    4224.0,
+    1.0,
+    1.0
+  ],
+  [
+    "scabbard2_colider",
+    "@ref vertex_buffer(309)",
+    "equipmennt\/weapons\/scabbard2_colider.vbuff",
+    "ref",
+    1152.0,
+    1.0,
+    1.0
+  ],
+  [
+    "scabbard3",
+    "@ref vertex_buffer(310)",
+    "equipmennt\/weapons\/scabbard3.vbuff",
+    "ref",
+    4224.0,
+    1.0,
+    1.0
+  ],
+  [
+    "scabbard3_colider",
+    "@ref vertex_buffer(311)",
+    "equipmennt\/weapons\/scabbard3_colider.vbuff",
+    "ref",
+    1152.0,
+    1.0,
+    1.0
+  ],
+  [
+    "dagger1",
+    "@ref vertex_buffer(312)",
+    "equipmennt\/weapons\/dagger1.vbuff",
+    "ref",
+    4800.0,
+    1.0,
+    1.0
+  ],
+  [
+    "dagger1_colider",
+    "@ref vertex_buffer(313)",
+    "equipmennt\/weapons\/dagger1_colider.vbuff",
+    "ref",
+    2208.0,
+    1.0,
+    1.0
+  ],
+  [
+    "axe1",
+    "@ref vertex_buffer(314)",
+    "equipmennt\/weapons\/axe1.vbuff",
+    "ref",
+    7872.0,
+    1.0,
+    1.0
+  ],
+  [
+    "axe1_colider",
+    "@ref vertex_buffer(315)",
+    "equipmennt\/weapons\/axe1_colider.vbuff",
+    "ref",
+    1056.0,
+    1.0,
+    1.0
+  ],
+  [
+    "pickaxe1",
+    "@ref vertex_buffer(316)",
+    "equipmennt\/weapons\/pickaxe1.vbuff",
+    "ref",
+    8256.0,
+    1.0,
+    1.0
+  ],
+  [
+    "pickaxe1_colider",
+    "@ref vertex_buffer(317)",
+    "equipmennt\/weapons\/pickaxe1_colider.vbuff",
+    "ref",
+    1440.0,
+    1.0,
+    1.0
+  ],
+  [
+    "knife1",
+    "@ref vertex_buffer(318)",
+    "equipmennt\/weapons\/knife1.vbuff",
+    "ref",
+    2976.0,
+    1.0,
+    1.0
+  ],
+  [
+    "knife1_colider",
+    "@ref vertex_buffer(319)",
+    "equipmennt\/weapons\/knife1_colider.vbuff",
+    "ref",
+    1056.0,
+    1.0,
+    1.0
+  ],
+  [
+    "walking_stick",
+    "@ref vertex_buffer(320)",
+    "equipmennt\/weapons\/walking_stick.vbuff",
+    "ref",
+    3072.0,
+    1.0,
+    1.0
+  ],
+  [
+    "spade1",
+    "@ref vertex_buffer(321)",
+    "equipmennt\/weapons\/spade1.vbuff",
+    "ref",
+    6528.0,
+    1.0,
+    1.0
+  ],
+  [
+    "spade1_colider",
+    "@ref vertex_buffer(322)",
+    "equipmennt\/weapons\/spade1_colider.vbuff",
+    "ref",
+    2016.0,
+    1.0,
+    1.0
+  ],
+  [
+    "choppa_01",
+    "@ref vertex_buffer(323)",
+    "equipmennt\/weapons\/choppa_01.vbuff",
+    "ref",
+    6912.0,
+    1.0,
+    1.0
+  ],
+  [
+    "choppa_01_colider",
+    "@ref vertex_buffer(324)",
+    "equipmennt\/weapons\/choppa_01_colider.vbuff",
+    "ref",
+    2208.0,
+    1.0,
+    1.0
+  ],
+  [
+    "helmet_01_basic",
+    "@ref vertex_buffer(325)",
+    "equipmennt\/helmets\/helmet_01_basic.vbuff",
+    "ref",
+    2400.0,
+    1.0,
+    1.0
+  ],
+  [
+    "visor_01_basic",
+    "@ref vertex_buffer(326)",
+    "equipmennt\/helmets\/visor_01_basic.vbuff",
+    "ref",
+    1152.0,
+    1.0,
+    1.0
+  ],
+  [
+    "hat_01",
+    "@ref vertex_buffer(327)",
+    "equipmennt\/helmets\/hat_01.vbuff",
+    "ref",
+    6912.0,
+    1.0,
+    1.0
+  ],
+  [
+    "hat_01_colider",
+    "@ref vertex_buffer(328)",
+    "equipmennt\/helmets\/hat_01_colider.vbuff",
+    "ref",
+    1152.0,
+    1.0,
+    1.0
+  ],
+  [
+    "hat_02",
+    "@ref vertex_buffer(329)",
+    "equipmennt\/helmets\/hat_02.vbuff",
+    "ref",
+    9408.0,
+    1.0,
+    1.0
+  ],
+  [
+    "hat_02_colider",
+    "@ref vertex_buffer(330)",
+    "equipmennt\/helmets\/hat_02_colider.vbuff",
+    "ref",
+    1152.0,
+    1.0,
+    1.0
+  ],
+  [
+    "helmet_01",
+    "@ref vertex_buffer(331)",
+    "equipmennt\/helmets\/helmet_01.vbuff",
+    "ref",
+    6912.0,
+    1.0,
+    1.0
+  ],
+  [
+    "helmet_02",
+    "@ref vertex_buffer(332)",
+    "equipmennt\/helmets\/helmet_02.vbuff",
+    "ref",
+    12096.0,
+    1.0,
+    1.0
+  ],
+  [
+    "helmet_03",
+    "@ref vertex_buffer(333)",
+    "equipmennt\/helmets\/helmet_03.vbuff",
+    "ref",
+    21888.0,
+    1.0,
+    1.0
+  ],
+  [
+    "helmet_04",
+    "@ref vertex_buffer(334)",
+    "equipmennt\/helmets\/helmet_04.vbuff",
+    "ref",
+    19968.0,
+    1.0,
+    1.0
+  ],
+  [
+    "helmet_05",
+    "@ref vertex_buffer(335)",
+    "equipmennt\/helmets\/helmet_05.vbuff",
+    "ref",
+    25344.0,
+    1.0,
+    1.0
+  ],
+  [
+    "backpack1",
+    "@ref vertex_buffer(336)",
+    "equipmennt\/basic\/backpack1.vbuff",
+    "ref",
+    15744.0,
+    1.0,
+    1.0
+  ],
+  [
+    "backpack1_colider",
+    "@ref vertex_buffer(337)",
+    "equipmennt\/basic\/backpack1_colider.vbuff",
+    "ref",
+    1152.0,
+    1.0,
+    1.0
+  ],
+  [
+    "backpack2",
+    "@ref vertex_buffer(338)",
+    "equipmennt\/basic\/backpack2.vbuff",
+    "ref",
+    2688.0,
+    1.0,
+    1.0
+  ],
+  [
+    "backpack2_colider",
+    "@ref vertex_buffer(339)",
+    "equipmennt\/basic\/backpack2_colider.vbuff",
+    "ref",
+    1152.0,
+    1.0,
+    1.0
+  ],
+  [
+    "backpack3",
+    "@ref vertex_buffer(340)",
+    "equipmennt\/basic\/backpack3.vbuff",
+    "ref",
+    17664.0,
+    1.0,
+    1.0
+  ],
+  [
+    "backpack3_colider",
+    "@ref vertex_buffer(341)",
+    "equipmennt\/basic\/backpack3_colider.vbuff",
+    "ref",
+    2112.0,
+    1.0,
+    1.0
+  ],
+  [
+    "line1",
+    "@ref vertex_buffer(342)",
+    "equipmennt\/basic\/line1.vbuff",
+    "ref",
+    30336.0,
+    1.0,
+    1.0
+  ],
+  [
+    "line1_colider",
+    "@ref vertex_buffer(343)",
+    "equipmennt\/basic\/line1_colider.vbuff",
+    "ref",
+    1152.0,
+    1.0,
+    1.0
+  ],
+  [
+    "shield1",
+    "@ref vertex_buffer(344)",
+    "equipmennt\/shields\/shield1.vbuff",
+    "ref",
+    8064.0,
+    1.0,
+    1.0
+  ],
+  [
+    "shield1_colider",
+    "@ref vertex_buffer(345)",
+    "equipmennt\/shields\/shield1_colider.vbuff",
+    "ref",
+    672.0,
+    1.0,
+    1.0
+  ],
+  [
+    "shield2",
+    "@ref vertex_buffer(346)",
+    "equipmennt\/shields\/shield2.vbuff",
+    "ref",
+    4032.0,
+    1.0,
+    1.0
+  ],
+  [
+    "shield2_colider",
+    "@ref vertex_buffer(347)",
+    "equipmennt\/shields\/shield2_colider.vbuff",
+    "ref",
+    672.0,
+    1.0,
+    1.0
+  ]
+]

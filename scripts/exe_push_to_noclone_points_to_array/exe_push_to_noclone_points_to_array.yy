@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"exe_push_to_noclone_points_to_array",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"exe_push_to_noclone_points_to_array",
+  "parent":{
+    "name":"functions",
+    "path":"folders/Scripts/vbuffs/functions.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

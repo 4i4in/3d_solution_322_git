@@ -1,0 +1,22 @@
+function exe_floor_items_swaps_3x3_01()
+{
+	var _struct =
+		{
+			main_part :
+				{
+					floor_3x3_01_old :
+						{
+							show :		["vbuff_floor_3x3_01_show","N","N"],
+							colider :	["vbuff_floor_3x3_01_colider","N","N"],
+							material :	[7.,1.,0.],
+						},
+					vbuff_empty :
+						{
+							show :		["vbuff_empty","N","N"],
+							colider :	["vbuff_empty","N","N"],
+							
+						},
+				},
+		}
+	return(_struct);
+}

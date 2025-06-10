@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"create_biome_and_vbuff",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"create_biome_and_vbuff",
+  "parent":{
+    "name":"functions",
+    "path":"folders/Scripts/menu_templates/world_control_menu/functions.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

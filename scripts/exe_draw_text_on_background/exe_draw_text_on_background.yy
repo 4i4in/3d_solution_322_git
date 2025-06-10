@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"exe_draw_text_on_background",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"exe_draw_text_on_background",
+  "parent":{
+    "name":"freeze_3d_operations",
+    "path":"folders/Scripts/3d_drawing/freeze_3d_operations.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"exe_return_vbuff_simple_menu_struct",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"exe_return_vbuff_simple_menu_struct",
+  "parent":{
+    "name":"vbuff_simple_menu",
+    "path":"folders/Scripts/menu_templates/vbuff_simple_menu.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

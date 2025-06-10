@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"_sound_metal_door_slam",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":0,
+  "conversionMode":0,
+  "duration":1.8,
+  "name":"_sound_metal_door_slam",
+  "parent":{
+    "name":"doors",
+    "path":"folders/Sounds/doors.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"_sound_metal_door_slam.wav",
+  "type":2,
+  "volume":1.0,
+}

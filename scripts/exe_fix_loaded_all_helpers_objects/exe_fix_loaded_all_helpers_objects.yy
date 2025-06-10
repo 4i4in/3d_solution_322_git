@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"exe_fix_loaded_all_helpers_objects",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"exe_fix_loaded_all_helpers_objects",
+  "parent":{
+    "name":"map3d",
+    "path":"folders/Scripts/map3d.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

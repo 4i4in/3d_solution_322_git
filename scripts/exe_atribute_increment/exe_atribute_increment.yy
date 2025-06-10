@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"exe_atribute_increment",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"exe_atribute_increment",
+  "parent":{
+    "name":"character_operation",
+    "path":"folders/Scripts/moves_on_3d_map/character_operation.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

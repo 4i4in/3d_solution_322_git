@@ -1,0 +1,12 @@
+{
+  "$GMShader":"",
+  "%Name":"shd_return_g_buff_full",
+  "name":"shd_return_g_buff_full",
+  "parent":{
+    "name":"technical",
+    "path":"folders/Shaders/technical.yy",
+  },
+  "resourceType":"GMShader",
+  "resourceVersion":"2.0",
+  "type":1,
+}

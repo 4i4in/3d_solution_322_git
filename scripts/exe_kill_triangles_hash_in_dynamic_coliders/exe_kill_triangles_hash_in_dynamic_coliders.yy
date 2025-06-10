@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"exe_kill_triangles_hash_in_dynamic_coliders",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"exe_kill_triangles_hash_in_dynamic_coliders",
+  "parent":{
+    "name":"activators",
+    "path":"folders/Scripts/moves_on_3d_map/activators.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

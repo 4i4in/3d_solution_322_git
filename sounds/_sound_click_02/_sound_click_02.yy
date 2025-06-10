@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"_sound_click_02",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":0,
+  "bitRate":8,
+  "compression":0,
+  "conversionMode":0,
+  "duration":0.29165533,
+  "name":"_sound_click_02",
+  "parent":{
+    "name":"mousclick",
+    "path":"folders/Sounds/mousclick.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":5512,
+  "soundFile":"_sound_click_02.wav",
+  "type":2,
+  "volume":1.0,
+}

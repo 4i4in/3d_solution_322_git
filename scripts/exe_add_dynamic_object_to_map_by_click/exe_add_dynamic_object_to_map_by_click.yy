@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"exe_add_dynamic_object_to_map_by_click",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"exe_add_dynamic_object_to_map_by_click",
+  "parent":{
+    "name":"static",
+    "path":"folders/Scripts/map3d/specific_objects/static.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

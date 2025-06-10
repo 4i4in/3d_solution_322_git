@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"exe_switch_spawn_by_pos",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"exe_switch_spawn_by_pos",
+  "parent":{
+    "name":"mapeditor_control_menu",
+    "path":"folders/Scripts/menu_templates/mapeditor_control_menu.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

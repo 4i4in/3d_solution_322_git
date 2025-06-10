@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"exe_populate_granulated_triangle",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"exe_populate_granulated_triangle",
+  "parent":{
+    "name":"functions",
+    "path":"folders/Scripts/menu_templates/world_control_menu/functions.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

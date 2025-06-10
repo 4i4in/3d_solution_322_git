@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"exe_perform_basic_1_activation_on",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"exe_perform_basic_1_activation_on",
+  "parent":{
+    "name":"activators",
+    "path":"folders/Scripts/moves_on_3d_map/activators.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

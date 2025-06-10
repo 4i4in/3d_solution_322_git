@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"exe_openbuffer_translate",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"exe_openbuffer_translate",
+  "parent":{
+    "name":"3d_operations",
+    "path":"folders/Scripts/3d_operations.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
